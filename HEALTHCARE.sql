@@ -53,6 +53,6 @@ WHEN S.[Month] = 8 THEN 'Aug'
 WHEN S.[Month] = 9 THEN 'Sep'
 WHEN S.[Month] = 10 THEN 'Oct'
 WHEN S.[Month] = 11 THEN 'Nov'
-WHEN S.[Month] = 12 THEN 'Dec' END 'Month'
+WHEN S.[Month] = 12 THEN 'Dec'END
 
 ORDER BY EOC.[DMH ID]

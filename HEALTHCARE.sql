@@ -1,4 +1,4 @@
-
+--Sample query to be used to get consumers data related to the services they are receiving.
 DECLARE @Start DATE, @End DATE
 SET @Start = '2023-01-01'
 SET @End = '2023-12-31'
